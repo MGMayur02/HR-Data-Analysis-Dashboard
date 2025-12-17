@@ -3,8 +3,8 @@ This project presents an HR Analytics Dashboard built using Power BI to analyze 
 The dashboard offers a clear and interactive view of key HR metrics, including employee count, attrition rate, age distribution, educational background, and department-wise attrition rates.
 
 🎯 Key Objectives
-Analyze overall employee strength and attrition
 
+Analyze overall employee strength and attrition
 Identify high-risk age groups and departments
 Understand job satisfaction levels across roles
 Compare attrition patterns by gender and age group
