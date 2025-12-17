@@ -4,6 +4,7 @@ The dashboard offers a clear and interactive view of key HR metrics, including e
 
 🎯 Key Objectives
 Analyze overall employee strength and attrition
+
 Identify high-risk age groups and departments
 Understand job satisfaction levels across roles
 Compare attrition patterns by gender and age group
