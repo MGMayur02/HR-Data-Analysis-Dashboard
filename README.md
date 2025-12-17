@@ -4,55 +4,55 @@ The dashboard offers a clear and interactive view of key HR metrics, including e
 
 🎯 Key Objectives
 
-Analyze overall employee strength and attrition
-Identify high-risk age groups and departments
-Understand job satisfaction levels across roles
-Compare attrition patterns by gender and age group
-Support strategic workforce planning
+  Analyze overall employee strength and attrition <br/>
+  Identify high-risk age groups and departments <br/>
+  Understand job satisfaction levels across roles <br/>
+  Compare attrition patterns by gender and age group <br/>
+  Support strategic workforce planning <br/>
 
-📌 Key KPIs
-Total Employees: 1470
-Active Employees: 1233
-Attrition Count: 237
-Attrition Rate: 16.12%
-Average Employee Age: 37
+📌 Key KPIs <br/>
+  Total Employees: 1470 <br/>
+  Active Employees: 1233 <br/>
+  Attrition Count: 237 <br/>
+  Attrition Rate: 16.12% <br/>
+  Average Employee Age: 37 <br/>
 
-📊 Dashboard Insights
-The 25–34 age group shows the highest employee concentration.
-R&D department contributes the highest attrition, followed by Sales.
-Employees with Life Sciences and Medical education backgrounds have higher attrition rates.
-Job satisfaction varies significantly across job roles, impacting retention.
-Male and female attrition trends differ across age groups, highlighting the need for targeted HR policies.
+📊 Dashboard Insights<br/>
+  The 25–34 age group shows the highest employee concentration. <br/>
+  R&D department contributes the highest attrition, followed by Sales. <br/>
+  Employees with Life Sciences and Medical education backgrounds have higher attrition rates. <br/>
+  Job satisfaction varies significantly across job roles, impacting retention.<br/>
+  Male and female attrition trends differ across age groups, highlighting the need for targeted HR policies.<br/>
 
-🛠 Tools & Technologies
-Power BI – Data modeling, DAX calculations, and visualization
-Power Query – Data cleaning and transformation
-DAX – KPI calculations (Attrition Rate, Active Employees, etc.)
-Excel / CSV – Data source
+🛠 Tools & Technologies <br/>
+  Power BI – Data modeling, DAX calculations, and visualization<br/>
+  Power Query – Data cleaning and transformation<br/>
+  DAX – KPI calculations (Attrition Rate, Active Employees, etc.)<br/>
+  Excel / CSV – Data source<br/>
 
-📂 Files in Repository
-HR_Data_Analysis.pbix– Power BI dashboard file
-HR Data.xlsx – HR dataset used for analysis
-README.md – Project documentation
+📂 Files in Repository<br/>
+  HR_Data_Analysis.pbix– Power BI dashboard file<br/>
+  HR Data.xlsx – HR dataset used for analysis<br/>
+  README.md – Project documentation<br/>
 
-🚀 How to Use
-Download the .pbix file
-Open in Power BI Desktop
-Refresh data (if needed)
-Explore insights using filters and slicers
+🚀 How to Use<br/>
+  Download the .pbix file<br/>
+  Open in Power BI Desktop<br/>
+  Refresh data (if needed)<br/>
+  Explore insights using filters and slicers<br/>
 
-📈 Outcome
-This dashboard enables HR stakeholders to:
-Monitor workforce health
-Reduce employee attrition
-Improve employee engagement
-Make informed HR decisions
+📈 Outcome<br/>
+  This dashboard enables HR stakeholders to:<br/>
+  Monitor workforce health<br/>
+  Reduce employee attrition<br/>
+  Improve employee engagement<br/>
+  Make informed HR decisions<br/>
 
-🧠 Skills Demonstrated
-Data Cleaning & Transformation
-HR Analytics
-KPI Development
-DAX Measures
-Interactive Dashboard Design
-Data Storytelling
+🧠 Skills Demonstrated<br/>
+  Data Cleaning & Transformation<br/>
+  HR Analytics<br/>
+  KPI Development<br/>
+  DAX Measures<br/>
+  Interactive Dashboard Design<br/>
+  Data Storytelling<br/>
 
