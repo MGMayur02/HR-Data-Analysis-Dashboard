@@ -56,3 +56,6 @@ The dashboard offers a clear and interactive view of key HR metrics, including e
   Interactive Dashboard Design<br/>
   Data Storytelling<br/>
 
+Screenshot:
+![Dashboard Look Like](https://github.com/MGMayur02/HR-Data-Analysis-Dashboard/blob/main/HR%20Analysis%20Dashboard.png)
+
